@@ -1,2 +1,2 @@
-# Machine-Learning-Algorithms
-Implementation of various Machine Learning Alaagorithms
+# ML-algorithms
+Machine Learning algorithms Implementation Practice
